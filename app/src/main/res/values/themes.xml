@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.NZRCorretor" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#4C1D95</item>
+        <item name="android:navigationBarColor">#0B0B10</item>
+        <item name="android:windowBackground">#F7F7FA</item>
+        <item name="android:colorAccent">#7C3AED</item>
+    </style>
+</resources>
