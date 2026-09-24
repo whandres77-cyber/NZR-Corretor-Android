@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NZR Corretor</string>
+    <string name="process_text_label">Corrigir ortografia inteira</string>
+</resources>
